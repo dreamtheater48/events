@@ -16,7 +16,7 @@
     <p>Aucun Evenement</p>
     @endif
 </ul>
-
+<h1>Kiw</h1>
 {{ $events->links()}}
 
 
